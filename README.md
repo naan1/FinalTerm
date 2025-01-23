@@ -1,2 +1,2 @@
 # FinalTerm
-quiz6_a_b
+quiz6_a
